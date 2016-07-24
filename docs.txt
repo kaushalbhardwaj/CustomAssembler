@@ -1,0 +1,22 @@
+ISA COA Project 2016.
+
+This assembly to binary and binary to output ISA is contributed and made by
+1. Jai Goyal 14ucs051
+2. Kaushal Bhardwaj 14ucs054
+3. Dikshant Rathi
+4. Harshit Jain
+
+To Use this ISA you must take of these following points:
+
+1. use labels with the colon immediately occuring after the label name without any space. eg: "label:"
+
+2. use JZR to compare if value is Zero
+
+3. use JEQ to compare if two registers are equal
+
+4. use JLE to compare their inequality
+
+5. you must insert START at the start of the assembly code
+	and HLT at the end of the assembly code
+
+6. use appropriate commands in assembly code. for eg use "MVI" to move immediate constant to a register and "MVR" to move a register to another register.
